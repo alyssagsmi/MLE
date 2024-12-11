@@ -5,7 +5,7 @@ HARK!
 
 Who goes there??
 
-This be the place I drop my adventures in Machine learning and learning.
+This be the place I drop my adventures in Machine learning and learning itself.
 
 I have worked on projects in agricultural research in image processing, computer vision, and data analytics, and primarily find interest in using MLE as a tool to conduct meaningful exploration in interdisciplanary applications (sustainability, social impact, and assistive technology). 
 
